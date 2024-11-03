@@ -13,14 +13,14 @@ library(tidyverse)
 
 
 #### Download data ####
-#download the data from the website
+#download the data from the website and name it raw_data
 raw_data <- read.csv(
   file = "https://projects.fivethirtyeight.com/polls/data/president_polls.csv")
 
 
 
 #### Save data ####
-# name the raw data into raw_president_polls
-write_csv(raw_president_polls, "data/01-raw_data/raw_data.csv") 
+#  write the raw_data to save it in the data file
+write_csv(raw_data, "data/01-raw_data/raw_data.csv") 
 
          
