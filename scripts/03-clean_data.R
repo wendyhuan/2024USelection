@@ -30,7 +30,7 @@ national_data <-
   # convert binary variable hypothesis into value 1 and 0
   mutate(hypothetical = ifelse(hypothetical == "TRUE", 1, 0)) |> 
   # select columns needed for analysis
-  select(pollster, end_date, sample_size, state, hypothetical,party, answer, pct) |>
+  select(pollster, end_date, sample_size, state, hypothetical,party, candidate_name, pct) |>
   # change date to be number of days since half year ago - it's a counter not a date
   mutate(end_date_num = as.numeric(end_date - min(end_date))) |>
   # need vote in number not percent for some models

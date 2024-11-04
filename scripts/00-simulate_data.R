@@ -16,6 +16,32 @@ library(arrow)
 #### Set Seeds for furture check
 set.seed(304)
 
+#### Simulate Data ####
+
+# randomly simulate 500 tickets in the poll 
+tickets <- 500
+
+#simulate  between 2014-2024
+simulated_crime <- tibble(
+  # Randomly simulate 1000 crime reports in random divisions and random crime type in 2014-2024
+  reported_y = sample(year, size = crime, replace = TRUE),
+  division = sample(division, size = crime, replace = TRUE),
+  crime_type = sample(crime_types, size = crime, replace = TRUE),
+  crime_towards = sample (crime_against, size = crime, replace = TRUE),
+  cleared = sample(c(0, 1), size = crime, replace = TRUE, prob = c(0.5, 0.5))
+)
+
+head(simulated_crime)
+
+##### Save simulated data ####
+write_csv(simulated_crime, file = "data/raw_data/simulated_data.csv")
+
+
+
+
+
+
+
 
 #### Simulate data ####
 # State names
