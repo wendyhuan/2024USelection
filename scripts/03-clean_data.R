@@ -1,44 +1,48 @@
 #### Preamble ####
-# Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 6 April 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
-# License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Purpose: Cleans the raw plane data recorded by Trump and Harris with national data and state data
+# Author: Yanfei Huang
+# Date: 02 November 2024
+# Contact: yanfei.huang@mail.utoronto.ca
+# License: University of Toronto
+# Pre-requisites: Downloaded the data from fivethirtyeight.com
+# Any other information needed? None
 
 #### Workspace setup ####
 library(tidyverse)
+library(lubridate)
+library(arrow)
 
 #### Clean data ####
-raw_data <- read_csv("inputs/data/plane_data.csv")
+raw_data <- read_csv("data/01-raw_data/raw_data.csv")
 
-cleaned_data <-
+# Clean the data for prediction of the whole nation
+national_data <- 
   raw_data |>
-  janitor::clean_names() |>
-  select(wing_width_mm, wing_length_mm, flying_time_sec_first_timer) |>
-  filter(wing_width_mm != "caw") |>
-  mutate(
-    flying_time_sec_first_timer = if_else(flying_time_sec_first_timer == "1,35",
-                                   "1.35",
-                                   flying_time_sec_first_timer)
-  ) |>
-  mutate(wing_width_mm = if_else(wing_width_mm == "490",
-                                 "49",
-                                 wing_width_mm)) |>
-  mutate(wing_width_mm = if_else(wing_width_mm == "6",
-                                 "60",
-                                 wing_width_mm)) |>
-  mutate(
-    wing_width_mm = as.numeric(wing_width_mm),
-    wing_length_mm = as.numeric(wing_length_mm),
-    flying_time_sec_first_timer = as.numeric(flying_time_sec_first_timer)
-  ) |>
-  rename(flying_time = flying_time_sec_first_timer,
-         width = wing_width_mm,
-         length = wing_length_mm
-         ) |> 
-  tidyr::drop_na()
+  # filter only the high-quality pollsters
+  filter(numeric_grade >= 2.9,
+         # filter target candidate
+         candidate_name == "Donald Trump" 
+         | candidate_name == "Kamala Harris") |> 
+  # obtain end date of the polls
+  mutate(end_date = mdy(end_date)) |>
+  # choose data during half a year before the election (Nov 5, 2024)
+  filter(end_date >= as.Date("2024-05-05")) |> 
+  # convert binary variable hypothesis into value 1 and 0
+  mutate(hypothetical = ifelse(hypothetical == "TRUE", 1, 0)) |> 
+  # select columns needed for analysis
+  select(pollster, end_date, sample_size, state, hypothetical,party, answer, pct) |>
+  # change date to be number of days since half year ago - it's a counter not a date
+  mutate(end_date_num = as.numeric(end_date - min(end_date))) |>
+  # need vote in number not percent for some models
+  mutate(num_vote = round((pct / 100) * sample_size, 0))
+
+# Remove all missing values to clean data for prediction of each state
+state_data <-
+  national_data |> tidyr::drop_na()
+
 
 #### Save data ####
-write_csv(cleaned_data, "outputs/data/analysis_data.csv")
+# save the data file into csv and the parquet file
+write_csv(state_data, "data/02-analysis_data/state_data.csv")
+write_parquet(state_data, "data/02-analysis_data/state_data.parquet")
+
