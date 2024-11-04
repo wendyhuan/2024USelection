@@ -43,6 +43,9 @@ state_data <-
 
 #### Save data ####
 # save the data file into csv and the parquet file
+#save the file for national data and state data for further model fit
+write_csv(national_data, "data/02-analysis_data/national_data.csv")
+write_parquet(national_data, "data/02-analysis_data/national_data.parquet")
 write_csv(state_data, "data/02-analysis_data/state_data.csv")
 write_parquet(state_data, "data/02-analysis_data/state_data.parquet")
 

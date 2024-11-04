@@ -1,0 +1,1029 @@
+pollster,end_date,sample_size,state,hypothetical,party,answer,pct,end_date_num,num_vote
+Emerson,2024-11-02,800,Iowa,0,DEM,Harris,44.8,179,358
+Emerson,2024-11-02,800,Iowa,0,REP,Trump,53.9,179,431
+Emerson,2024-10-31,700,Nevada,0,DEM,Harris,48.6,177,340
+Emerson,2024-10-31,700,Nevada,0,REP,Trump,48.3,177,338
+YouGov,2024-10-31,880,Arizona,0,DEM,Harris,47,177,414
+YouGov,2024-10-31,880,Arizona,0,REP,Trump,48,177,422
+YouGov,2024-10-31,856,Arizona,0,DEM,Harris,48,177,411
+YouGov,2024-10-31,856,Arizona,0,REP,Trump,48,177,411
+YouGov,2024-10-31,880,Arizona,0,DEM,Harris,49,177,431
+YouGov,2024-10-31,880,Arizona,0,REP,Trump,50,177,440
+YouGov,2024-10-31,856,Arizona,0,DEM,Harris,49,177,419
+YouGov,2024-10-31,856,Arizona,0,REP,Trump,50,177,428
+YouGov,2024-10-31,984,Georgia,0,DEM,Harris,46,177,453
+YouGov,2024-10-31,984,Georgia,0,REP,Trump,48,177,472
+YouGov,2024-10-31,939,Georgia,0,DEM,Harris,47,177,441
+YouGov,2024-10-31,939,Georgia,0,REP,Trump,48,177,451
+YouGov,2024-10-31,984,Georgia,0,DEM,Harris,48,177,472
+YouGov,2024-10-31,984,Georgia,0,REP,Trump,50,177,492
+YouGov,2024-10-31,939,Georgia,0,DEM,Harris,48,177,451
+YouGov,2024-10-31,939,Georgia,0,REP,Trump,50,177,470
+YouGov,2024-10-31,985,Michigan,0,DEM,Harris,47,177,463
+YouGov,2024-10-31,985,Michigan,0,REP,Trump,45,177,443
+YouGov,2024-10-31,942,Michigan,0,DEM,Harris,48,177,452
+YouGov,2024-10-31,942,Michigan,0,REP,Trump,45,177,424
+YouGov,2024-10-31,985,Michigan,0,DEM,Harris,50,177,492
+YouGov,2024-10-31,985,Michigan,0,REP,Trump,46,177,453
+YouGov,2024-10-31,942,Michigan,0,DEM,Harris,50,177,471
+YouGov,2024-10-31,942,Michigan,0,REP,Trump,47,177,443
+YouGov,2024-10-31,790,Nevada,0,DEM,Harris,48,177,379
+YouGov,2024-10-31,790,Nevada,0,REP,Trump,47,177,371
+YouGov,2024-10-31,773,Nevada,0,DEM,Harris,48,177,371
+YouGov,2024-10-31,773,Nevada,0,REP,Trump,47,177,363
+YouGov,2024-10-31,790,Nevada,0,DEM,Harris,50,177,395
+YouGov,2024-10-31,790,Nevada,0,REP,Trump,49,177,387
+YouGov,2024-10-31,773,Nevada,0,DEM,Harris,50,177,386
+YouGov,2024-10-31,773,Nevada,0,REP,Trump,49,177,379
+YouGov,2024-10-31,987,North Carolina,0,DEM,Harris,47,177,464
+YouGov,2024-10-31,987,North Carolina,0,REP,Trump,48,177,474
+YouGov,2024-10-31,949,North Carolina,0,DEM,Harris,48,177,456
+YouGov,2024-10-31,949,North Carolina,0,REP,Trump,49,177,465
+YouGov,2024-10-31,987,North Carolina,0,DEM,Harris,49,177,484
+YouGov,2024-10-31,987,North Carolina,0,REP,Trump,49,177,484
+YouGov,2024-10-31,949,North Carolina,0,DEM,Harris,49,177,465
+YouGov,2024-10-31,949,North Carolina,0,REP,Trump,50,177,474
+YouGov,2024-10-31,982,Pennsylvania,0,DEM,Harris,48,177,471
+YouGov,2024-10-31,982,Pennsylvania,0,REP,Trump,46,177,452
+YouGov,2024-10-31,956,Pennsylvania,0,DEM,Harris,49,177,468
+YouGov,2024-10-31,956,Pennsylvania,0,REP,Trump,46,177,440
+YouGov,2024-10-31,982,Pennsylvania,0,DEM,Harris,50,177,491
+YouGov,2024-10-31,982,Pennsylvania,0,REP,Trump,48,177,471
+YouGov,2024-10-31,956,Pennsylvania,0,DEM,Harris,51,177,488
+YouGov,2024-10-31,956,Pennsylvania,0,REP,Trump,48,177,459
+YouGov,2024-10-31,889,Wisconsin,0,DEM,Harris,48,177,427
+YouGov,2024-10-31,889,Wisconsin,0,REP,Trump,45,177,400
+YouGov,2024-10-31,867,Wisconsin,0,DEM,Harris,49,177,425
+YouGov,2024-10-31,867,Wisconsin,0,REP,Trump,45,177,390
+YouGov,2024-10-31,889,Wisconsin,0,DEM,Harris,51,177,453
+YouGov,2024-10-31,889,Wisconsin,0,REP,Trump,47,177,418
+YouGov,2024-10-31,867,Wisconsin,0,DEM,Harris,51,177,442
+YouGov,2024-10-31,867,Wisconsin,0,REP,Trump,47,177,407
+Suffolk,2024-10-30,500,Pennsylvania,0,DEM,Harris,48.6,176,243
+Suffolk,2024-10-30,500,Pennsylvania,0,REP,Trump,48.6,176,243
+Marist,2024-10-30,1444,Wisconsin,0,DEM,Harris,50,176,722
+Marist,2024-10-30,1444,Wisconsin,0,REP,Trump,48,176,693
+Marist,2024-10-30,1330,Wisconsin,0,DEM,Harris,50,176,665
+Marist,2024-10-30,1330,Wisconsin,0,REP,Trump,48,176,638
+Marist,2024-10-30,1558,Pennsylvania,0,DEM,Harris,51,176,795
+Marist,2024-10-30,1558,Pennsylvania,0,REP,Trump,47,176,732
+Marist,2024-10-30,1400,Pennsylvania,0,DEM,Harris,50,176,700
+Marist,2024-10-30,1400,Pennsylvania,0,REP,Trump,48,176,672
+Marist,2024-10-30,1356,Michigan,0,DEM,Harris,51,176,692
+Marist,2024-10-30,1356,Michigan,0,REP,Trump,48,176,651
+Marist,2024-10-30,1214,Michigan,0,DEM,Harris,51,176,619
+Marist,2024-10-30,1214,Michigan,0,REP,Trump,48,176,583
+The Washington Post,2024-10-30,1204,Pennsylvania,0,DEM,Harris,48,176,578
+The Washington Post,2024-10-30,1204,Pennsylvania,0,REP,Trump,47,176,566
+The Washington Post,2024-10-30,1204,Pennsylvania,0,DEM,Harris,48,176,578
+The Washington Post,2024-10-30,1204,Pennsylvania,0,REP,Trump,47,176,566
+YouGov,2024-10-29,1446,NA,0,DEM,Harris,47,175,680
+YouGov,2024-10-29,1446,NA,0,REP,Trump,46,175,665
+YouGov,2024-10-29,1310,NA,0,DEM,Harris,49,175,642
+YouGov,2024-10-29,1310,NA,0,REP,Trump,47,175,616
+Data Orbital,2024-10-28,550,Arizona,0,DEM,Harris,41.9,174,230
+Data Orbital,2024-10-28,550,Arizona,0,REP,Trump,49.7,174,273
+Monmouth,2024-10-28,824,Pennsylvania,0,DEM,Harris,46,174,379
+Monmouth,2024-10-28,824,Pennsylvania,0,REP,Trump,47,174,387
+The Washington Post,2024-10-28,1003,Michigan,0,DEM,Harris,47,174,471
+The Washington Post,2024-10-28,1003,Michigan,0,REP,Trump,46,174,461
+The Washington Post,2024-10-28,1003,Michigan,0,DEM,Harris,45,174,451
+The Washington Post,2024-10-28,1003,Michigan,0,REP,Trump,47,174,471
+YouGov,2024-10-28,1273,Pennsylvania,0,DEM,Harris,49,174,624
+YouGov,2024-10-28,1273,Pennsylvania,0,REP,Trump,49,174,624
+YouGov,2024-10-28,1206,Nebraska,0,DEM,Harris,40,174,482
+YouGov,2024-10-28,1206,Nebraska,0,REP,Trump,55,174,663
+YouGov,2024-10-28,408,Nebraska CD-1,0,DEM,Harris,43,174,175
+YouGov,2024-10-28,408,Nebraska CD-1,0,REP,Trump,51,174,208
+YouGov,2024-10-28,393,Nebraska CD-2,0,DEM,Harris,52,174,204
+YouGov,2024-10-28,393,Nebraska CD-2,0,REP,Trump,44,174,173
+YouGov,2024-10-28,404,Nebraska CD-3,0,DEM,Harris,25,174,101
+YouGov,2024-10-28,404,Nebraska CD-3,0,REP,Trump,70,174,283
+Emerson,2024-10-27,1000,Michigan,0,DEM,Harris,49.3,173,493
+Emerson,2024-10-27,1000,Michigan,0,REP,Trump,49.8,173,498
+Suffolk,2024-10-27,500,Michigan,1,DEM,Harris,47,173,235
+Suffolk,2024-10-27,500,Michigan,1,REP,Trump,47.4,173,237
+Emerson,2024-10-26,1000,Massachusetts,0,DEM,Harris,60.2,172,602
+Emerson,2024-10-26,1000,Massachusetts,0,REP,Trump,37.2,172,372
+Siena/NYT,2024-10-26,1180,Texas,0,DEM,Harris,41,172,484
+Siena/NYT,2024-10-26,1180,Texas,0,REP,Trump,52,172,614
+Siena/NYT,2024-10-26,1180,Texas,0,DEM,Harris,40,172,472
+Siena/NYT,2024-10-26,1180,Texas,0,REP,Trump,50,172,590
+Siena/NYT,2024-10-26,1180,Texas,0,DEM,Harris,42,172,496
+Siena/NYT,2024-10-26,1180,Texas,0,REP,Trump,52,172,614
+Siena/NYT,2024-10-26,1180,Texas,0,DEM,Harris,40,172,472
+Siena/NYT,2024-10-26,1180,Texas,0,REP,Trump,51,172,602
+Siena/NYT,2024-10-26,1194,Nebraska,0,DEM,Harris,40,172,478
+Siena/NYT,2024-10-26,1194,Nebraska,0,REP,Trump,55,172,657
+Siena/NYT,2024-10-26,1194,Nebraska,0,DEM,Harris,38,172,454
+Siena/NYT,2024-10-26,1194,Nebraska,0,REP,Trump,53,172,633
+Siena/NYT,2024-10-26,1194,Nebraska,0,DEM,Harris,40,172,478
+Siena/NYT,2024-10-26,1194,Nebraska,0,REP,Trump,55,172,657
+Siena/NYT,2024-10-26,1194,Nebraska,0,DEM,Harris,39,172,466
+Siena/NYT,2024-10-26,1194,Nebraska,0,REP,Trump,53,172,633
+Siena/NYT,2024-10-26,500,Nebraska CD-2,0,DEM,Harris,54,172,270
+Siena/NYT,2024-10-26,500,Nebraska CD-2,0,REP,Trump,42,172,210
+Siena/NYT,2024-10-26,500,Nebraska CD-2,0,DEM,Harris,53,172,265
+Siena/NYT,2024-10-26,500,Nebraska CD-2,0,REP,Trump,41,172,205
+YouGov,2024-10-25,2154,NA,0,DEM,Harris,50,171,1077
+YouGov,2024-10-25,2154,NA,0,REP,Trump,49,171,1055
+Emerson,2024-10-25,1000,Montana,0,DEM,Harris,39.6,171,396
+Emerson,2024-10-25,1000,Montana,0,REP,Trump,58.6,171,586
+CES / YouGov,2024-10-25,78247,NA,0,DEM,Harris,51,171,39906
+CES / YouGov,2024-10-25,78247,NA,0,REP,Trump,46,171,35994
+CES / YouGov,2024-10-25,48732,NA,0,DEM,Harris,51,171,24853
+CES / YouGov,2024-10-25,48732,NA,0,REP,Trump,47,171,22904
+CES / YouGov,2024-10-25,2077,Arizona,0,DEM,Harris,49,171,1018
+CES / YouGov,2024-10-25,2077,Arizona,0,REP,Trump,49,171,1018
+CES / YouGov,2024-10-25,2066,Arizona,0,DEM,Harris,47,171,971
+CES / YouGov,2024-10-25,2066,Arizona,0,REP,Trump,51,171,1054
+CES / YouGov,2024-10-25,5952,Florida,0,DEM,Harris,47,171,2797
+CES / YouGov,2024-10-25,5952,Florida,0,REP,Trump,51,171,3036
+CES / YouGov,2024-10-25,5916,Florida,0,DEM,Harris,46,171,2721
+CES / YouGov,2024-10-25,5916,Florida,0,REP,Trump,52,171,3076
+CES / YouGov,2024-10-25,2682,Georgia,0,DEM,Harris,48,171,1287
+CES / YouGov,2024-10-25,2682,Georgia,0,REP,Trump,49,171,1314
+CES / YouGov,2024-10-25,2663,Georgia,0,DEM,Harris,46,171,1225
+CES / YouGov,2024-10-25,2663,Georgia,0,REP,Trump,51,171,1358
+CES / YouGov,2024-10-25,2347,Michigan,0,DEM,Harris,52,171,1220
+CES / YouGov,2024-10-25,2347,Michigan,0,REP,Trump,45,171,1056
+CES / YouGov,2024-10-25,2336,Michigan,0,DEM,Harris,51,171,1191
+CES / YouGov,2024-10-25,2336,Michigan,0,REP,Trump,46,171,1075
+CES / YouGov,2024-10-25,1278,Minnesota,0,DEM,Harris,52,171,665
+CES / YouGov,2024-10-25,1278,Minnesota,0,REP,Trump,44,171,562
+CES / YouGov,2024-10-25,1275,Minnesota,0,DEM,Harris,53,171,676
+CES / YouGov,2024-10-25,1275,Minnesota,0,REP,Trump,43,171,548
+CES / YouGov,2024-10-25,940,Nevada,0,DEM,Harris,53,171,498
+CES / YouGov,2024-10-25,940,Nevada,0,REP,Trump,44,171,414
+CES / YouGov,2024-10-25,933,Nevada,0,DEM,Harris,51,171,476
+CES / YouGov,2024-10-25,933,Nevada,0,REP,Trump,47,171,439
+CES / YouGov,2024-10-25,380,New Hampshire,0,DEM,Harris,52,171,198
+CES / YouGov,2024-10-25,380,New Hampshire,0,REP,Trump,45,171,171
+CES / YouGov,2024-10-25,375,New Hampshire,0,DEM,Harris,52,171,195
+CES / YouGov,2024-10-25,375,New Hampshire,0,REP,Trump,45,171,169
+CES / YouGov,2024-10-25,2330,North Carolina,0,DEM,Harris,49,171,1142
+CES / YouGov,2024-10-25,2330,North Carolina,0,REP,Trump,48,171,1118
+CES / YouGov,2024-10-25,2308,North Carolina,0,DEM,Harris,48,171,1108
+CES / YouGov,2024-10-25,2308,North Carolina,0,REP,Trump,50,171,1154
+CES / YouGov,2024-10-25,3120,Ohio,0,DEM,Harris,45,171,1404
+CES / YouGov,2024-10-25,3120,Ohio,0,REP,Trump,52,171,1622
+CES / YouGov,2024-10-25,3091,Ohio,0,DEM,Harris,45,171,1391
+CES / YouGov,2024-10-25,3091,Ohio,0,REP,Trump,52,171,1607
+CES / YouGov,2024-10-25,3708,Pennsylvania,0,DEM,Harris,50,171,1854
+CES / YouGov,2024-10-25,3708,Pennsylvania,0,REP,Trump,47,171,1743
+CES / YouGov,2024-10-25,3685,Pennsylvania,0,DEM,Harris,49,171,1806
+CES / YouGov,2024-10-25,3685,Pennsylvania,0,REP,Trump,48,171,1769
+CES / YouGov,2024-10-25,6526,Texas,0,DEM,Harris,47,171,3067
+CES / YouGov,2024-10-25,6526,Texas,0,REP,Trump,51,171,3328
+CES / YouGov,2024-10-25,6473,Texas,0,DEM,Harris,47,171,3042
+CES / YouGov,2024-10-25,6473,Texas,0,REP,Trump,51,171,3301
+CES / YouGov,2024-10-25,2027,Virginia,0,DEM,Harris,53,171,1074
+CES / YouGov,2024-10-25,2027,Virginia,0,REP,Trump,44,171,892
+CES / YouGov,2024-10-25,2015,Virginia,0,DEM,Harris,52,171,1048
+CES / YouGov,2024-10-25,2015,Virginia,0,REP,Trump,44,171,887
+CES / YouGov,2024-10-25,1552,Wisconsin,0,DEM,Harris,51,171,792
+CES / YouGov,2024-10-25,1552,Wisconsin,0,REP,Trump,46,171,714
+CES / YouGov,2024-10-25,1542,Wisconsin,0,DEM,Harris,50,171,771
+CES / YouGov,2024-10-25,1542,Wisconsin,0,REP,Trump,47,171,725
+Emerson,2024-10-24,1000,NA,0,DEM,Harris,49.3,170,493
+Emerson,2024-10-24,1000,NA,0,REP,Trump,49.3,170,493
+Marquette Law School,2024-10-24,753,Wisconsin,0,DEM,Harris,50,170,376
+Marquette Law School,2024-10-24,753,Wisconsin,0,REP,Trump,49,170,369
+Marquette Law School,2024-10-24,753,Wisconsin,1,DEM,Harris,46,170,346
+Marquette Law School,2024-10-24,753,Wisconsin,1,REP,Trump,44,170,331
+Marquette Law School,2024-10-24,834,Wisconsin,0,DEM,Harris,51,170,425
+Marquette Law School,2024-10-24,834,Wisconsin,0,REP,Trump,49,170,409
+Marquette Law School,2024-10-24,834,Wisconsin,1,DEM,Harris,46,170,384
+Marquette Law School,2024-10-24,834,Wisconsin,1,REP,Trump,43,170,359
+University of Massachusetts Lowell/YouGov,2024-10-24,600,Michigan,1,DEM,Harris,49,170,294
+University of Massachusetts Lowell/YouGov,2024-10-24,600,Michigan,1,REP,Trump,45,170,270
+Emerson,2024-10-23,915,New Hampshire,0,DEM,Harris,50.9,169,466
+Emerson,2024-10-23,915,New Hampshire,0,REP,Trump,47.2,169,432
+Siena/NYT,2024-10-23,2516,NA,0,DEM,Harris,47,169,1183
+Siena/NYT,2024-10-23,2516,NA,0,REP,Trump,47,169,1183
+Siena/NYT,2024-10-23,2516,NA,0,DEM,Harris,45,169,1132
+Siena/NYT,2024-10-23,2516,NA,0,REP,Trump,46,169,1157
+Siena/NYT,2024-10-23,2516,NA,0,DEM,Harris,48,169,1208
+Siena/NYT,2024-10-23,2516,NA,0,REP,Trump,48,169,1208
+Siena/NYT,2024-10-23,2516,NA,0,DEM,Harris,46,169,1157
+Siena/NYT,2024-10-23,2516,NA,0,REP,Trump,47,169,1183
+Suffolk,2024-10-23,500,Wisconsin,1,DEM,Harris,46.6,169,233
+Suffolk,2024-10-23,500,Wisconsin,1,REP,Trump,48,169,240
+University of Massachusetts Lowell/YouGov,2024-10-23,650,North Carolina,0,DEM,Harris,45,169,292
+University of Massachusetts Lowell/YouGov,2024-10-23,650,North Carolina,0,REP,Trump,47,169,306
+University of Massachusetts Lowell/YouGov,2024-10-23,800,Pennsylvania,0,DEM,Harris,48,169,384
+University of Massachusetts Lowell/YouGov,2024-10-23,800,Pennsylvania,0,REP,Trump,47,169,376
+University of Massachusetts Lowell/YouGov,2024-10-23,600,New Hampshire,0,DEM,Harris,50,169,300
+University of Massachusetts Lowell/YouGov,2024-10-23,600,New Hampshire,0,REP,Trump,43,169,258
+Emerson,2024-10-22,860,Pennsylvania,0,DEM,Harris,49,168,421
+Emerson,2024-10-22,860,Pennsylvania,0,REP,Trump,50.7,168,436
+Emerson,2024-10-22,950,North Carolina,0,DEM,Harris,48.2,168,458
+Emerson,2024-10-22,950,North Carolina,0,REP,Trump,50.2,168,477
+Emerson,2024-10-22,800,Wisconsin,0,DEM,Harris,49.2,168,394
+Emerson,2024-10-22,800,Wisconsin,0,REP,Trump,49.9,168,399
+YouGov,2024-10-22,1422,NA,0,DEM,Harris,48,168,683
+YouGov,2024-10-22,1422,NA,0,REP,Trump,46,168,654
+YouGov,2024-10-22,1293,NA,0,DEM,Harris,49,168,634
+YouGov,2024-10-22,1293,NA,0,REP,Trump,46,168,595
+Emerson,2024-10-22,825,South Dakota,0,DEM,Harris,36.5,168,301
+Emerson,2024-10-22,825,South Dakota,0,REP,Trump,62,168,512
+Marist,2024-10-22,1356,Georgia,0,DEM,Harris,49,168,664
+Marist,2024-10-22,1356,Georgia,0,REP,Trump,48,168,651
+Marist,2024-10-22,1193,Georgia,0,DEM,Harris,49,168,585
+Marist,2024-10-22,1193,Georgia,0,REP,Trump,49,168,585
+Marist,2024-10-22,1410,North Carolina,0,DEM,Harris,48,168,677
+Marist,2024-10-22,1410,North Carolina,0,REP,Trump,49,168,691
+Marist,2024-10-22,1226,North Carolina,0,DEM,Harris,48,168,588
+Marist,2024-10-22,1226,North Carolina,0,REP,Trump,50,168,613
+Marist,2024-10-22,1329,Arizona,0,DEM,Harris,49,168,651
+Marist,2024-10-22,1329,Arizona,0,REP,Trump,49,168,651
+Marist,2024-10-22,1193,Arizona,0,DEM,Harris,49,168,585
+Marist,2024-10-22,1193,Arizona,0,REP,Trump,50,168,596
+Emerson,2024-10-21,865,Maryland,0,DEM,Harris,64,167,554
+Emerson,2024-10-21,865,Maryland,0,REP,Trump,34.4,167,298
+YouGov,2024-10-21,1266,NA,0,DEM,Harris,47,167,595
+YouGov,2024-10-21,1266,NA,0,REP,Trump,45,167,570
+YouGov,2024-10-21,1189,NA,0,DEM,Harris,48,167,571
+YouGov,2024-10-21,1189,NA,0,REP,Trump,45,167,535
+Emerson,2024-10-21,815,Texas,0,DEM,Harris,45.9,167,374
+Emerson,2024-10-21,815,Texas,0,REP,Trump,53.1,167,433
+Monmouth,2024-10-21,802,NA,0,DEM,Harris,47,167,377
+Monmouth,2024-10-21,802,NA,0,REP,Trump,44,167,353
+Emerson,2024-10-20,860,Florida,0,DEM,Harris,45.9,166,395
+Emerson,2024-10-20,860,Florida,0,REP,Trump,53.6,166,461
+Suffolk,2024-10-18,1000,NA,0,DEM,Harris,45.3,164,453
+Suffolk,2024-10-18,1000,NA,0,REP,Trump,44.4,164,444
+Suffolk,2024-10-18,1000,NA,0,DEM,Harris,49.7,164,497
+Suffolk,2024-10-18,1000,NA,0,REP,Trump,48.7,164,487
+YouGov,2024-10-17,1139,California,0,DEM,Harris,63,163,718
+YouGov,2024-10-17,1139,California,0,REP,Trump,34,163,387
+YouGov,2024-10-17,1139,California,0,DEM,Harris,63,163,718
+YouGov,2024-10-17,1139,California,0,REP,Trump,34,163,387
+YouGov,2024-10-17,1062,Pennsylvania,0,DEM,Harris,50,163,531
+YouGov,2024-10-17,1062,Pennsylvania,0,REP,Trump,47,163,499
+YouGov,2024-10-17,1043,Pennsylvania,0,DEM,Harris,50,163,522
+YouGov,2024-10-17,1043,Pennsylvania,0,REP,Trump,48,163,501
+YouGov,2024-10-17,1094,Florida,0,DEM,Harris,46,163,503
+YouGov,2024-10-17,1094,Florida,0,REP,Trump,51,163,558
+YouGov,2024-10-17,1076,Florida,0,DEM,Harris,46,163,495
+YouGov,2024-10-17,1076,Florida,0,REP,Trump,51,163,549
+YouGov,2024-10-17,1108,Texas,0,DEM,Harris,45,163,499
+YouGov,2024-10-17,1108,Texas,0,REP,Trump,50,163,554
+YouGov,2024-10-17,1075,Texas,0,DEM,Harris,46,163,494
+YouGov,2024-10-17,1075,Texas,0,REP,Trump,51,163,548
+YouGov,2024-10-17,1089,New York,0,DEM,Harris,58,163,632
+YouGov,2024-10-17,1089,New York,0,REP,Trump,38,163,414
+YouGov,2024-10-17,1089,New York,0,DEM,Harris,58,163,632
+YouGov,2024-10-17,1089,New York,0,REP,Trump,38,163,414
+YouGov,2024-10-17,1500,NA,0,DEM,Harris,50,163,750
+YouGov,2024-10-17,1500,NA,0,REP,Trump,46,163,690
+YouGov,2024-10-17,1500,NA,0,DEM,Harris,51,163,765
+YouGov,2024-10-17,1500,NA,0,REP,Trump,46,163,690
+Emerson,2024-10-16,1000,NA,0,DEM,Harris,49.5,162,495
+Emerson,2024-10-16,1000,NA,0,REP,Trump,49.2,162,492
+YouGov,2024-10-16,1435,Arizona,0,DEM,Harris,48,162,689
+YouGov,2024-10-16,1435,Arizona,0,REP,Trump,51,162,732
+YouGov,2024-10-15,1457,NA,0,DEM,Harris,48,161,699
+YouGov,2024-10-15,1457,NA,0,REP,Trump,45,161,656
+YouGov,2024-10-15,1314,NA,0,DEM,Harris,49,161,644
+YouGov,2024-10-15,1314,NA,0,REP,Trump,45,161,591
+Emerson,2024-10-14,1000,California,0,DEM,Harris,61,160,610
+Emerson,2024-10-14,1000,California,0,REP,Trump,36.6,160,366
+YouGov,2024-10-11,2712,NA,0,DEM,Harris,51,157,1383
+YouGov,2024-10-11,2712,NA,0,REP,Trump,48,157,1302
+Marist,2024-10-10,1401,NA,0,DEM,Harris,52,156,729
+Marist,2024-10-10,1401,NA,0,REP,Trump,47,156,658
+Marist,2024-10-10,1708,NA,0,DEM,Harris,51,156,871
+Marist,2024-10-10,1708,NA,0,REP,Trump,48,156,820
+Siena/NYT,2024-10-10,857,Pennsylvania,0,DEM,Harris,50,156,428
+Siena/NYT,2024-10-10,857,Pennsylvania,0,REP,Trump,47,156,403
+Siena/NYT,2024-10-10,857,Pennsylvania,0,DEM,Harris,49,156,420
+Siena/NYT,2024-10-10,857,Pennsylvania,0,REP,Trump,45,156,386
+Siena/NYT,2024-10-10,857,Pennsylvania,0,DEM,Harris,50,156,428
+Siena/NYT,2024-10-10,857,Pennsylvania,0,REP,Trump,47,156,403
+Siena/NYT,2024-10-10,857,Pennsylvania,0,DEM,Harris,49,156,420
+Siena/NYT,2024-10-10,857,Pennsylvania,0,REP,Trump,45,156,386
+Siena/NYT,2024-10-10,808,Arizona,0,DEM,Harris,46,156,372
+Siena/NYT,2024-10-10,808,Arizona,0,REP,Trump,51,156,412
+Siena/NYT,2024-10-10,808,Arizona,0,DEM,Harris,45,156,364
+Siena/NYT,2024-10-10,808,Arizona,0,REP,Trump,50,156,404
+Siena/NYT,2024-10-10,808,Arizona,0,DEM,Harris,45,156,364
+Siena/NYT,2024-10-10,808,Arizona,0,REP,Trump,51,156,412
+Siena/NYT,2024-10-10,808,Arizona,0,DEM,Harris,44,156,356
+Siena/NYT,2024-10-10,808,Arizona,0,REP,Trump,49,156,396
+University of Massachusetts Lowell/YouGov,2024-10-10,600,New Hampshire,0,DEM,Harris,50,156,300
+University of Massachusetts Lowell/YouGov,2024-10-10,600,New Hampshire,0,REP,Trump,41,156,246
+YouGov,2024-10-10,1091,Texas,0,DEM,Harris,46,156,502
+YouGov,2024-10-10,1091,Texas,0,REP,Trump,51,156,556
+Marquette Law School,2024-10-10,780,NA,0,DEM,Harris,50,156,390
+Marquette Law School,2024-10-10,780,NA,0,REP,Trump,50,156,390
+Marquette Law School,2024-10-10,780,NA,1,DEM,Harris,43,156,335
+Marquette Law School,2024-10-10,780,NA,1,REP,Trump,39,156,304
+Marquette Law School,2024-10-10,652,NA,0,DEM,Harris,50,156,326
+Marquette Law School,2024-10-10,652,NA,0,REP,Trump,50,156,326
+Marquette Law School,2024-10-10,652,NA,1,DEM,Harris,44,156,287
+Marquette Law School,2024-10-10,652,NA,1,REP,Trump,41,156,267
+University of Massachusetts Lowell/YouGov,2024-10-09,800,Pennsylvania,0,DEM,Harris,46,155,368
+University of Massachusetts Lowell/YouGov,2024-10-09,800,Pennsylvania,0,REP,Trump,45,155,360
+Emerson,2024-10-08,1000,Arizona,0,DEM,Harris,48.2,154,482
+Emerson,2024-10-08,1000,Arizona,0,REP,Trump,50.5,154,505
+Emerson,2024-10-08,1000,Georgia,0,DEM,Harris,49.8,154,498
+Emerson,2024-10-08,1000,Georgia,0,REP,Trump,49.7,154,497
+Emerson,2024-10-08,950,Michigan,0,DEM,Harris,49.7,154,472
+Emerson,2024-10-08,950,Michigan,0,REP,Trump,49.6,154,471
+Emerson,2024-10-08,900,Nevada,0,DEM,Harris,49.2,154,443
+Emerson,2024-10-08,900,Nevada,0,REP,Trump,48.1,154,433
+Emerson,2024-10-08,1000,North Carolina,0,DEM,Harris,49,154,490
+Emerson,2024-10-08,1000,North Carolina,0,REP,Trump,49.9,154,499
+Emerson,2024-10-08,1000,Pennsylvania,0,DEM,Harris,49,154,490
+Emerson,2024-10-08,1000,Pennsylvania,0,REP,Trump,49.7,154,497
+Emerson,2024-10-08,1000,Wisconsin,0,DEM,Harris,49.2,154,492
+Emerson,2024-10-08,1000,Wisconsin,0,REP,Trump,49.9,154,499
+Siena/NYT,2024-10-08,656,Montana,0,DEM,Harris,39,154,256
+Siena/NYT,2024-10-08,656,Montana,0,REP,Trump,57,154,374
+Siena/NYT,2024-10-08,656,Montana,0,DEM,Harris,38,154,249
+Siena/NYT,2024-10-08,656,Montana,0,REP,Trump,56,154,367
+Siena/NYT,2024-10-08,656,Montana,0,DEM,Harris,40,154,262
+Siena/NYT,2024-10-08,656,Montana,0,REP,Trump,57,154,374
+Siena/NYT,2024-10-08,656,Montana,0,DEM,Harris,39,154,256
+Siena/NYT,2024-10-08,656,Montana,0,REP,Trump,56,154,367
+YouGov,2024-10-07,1414,NA,0,DEM,Harris,47,153,665
+YouGov,2024-10-07,1414,NA,0,REP,Trump,44,153,622
+YouGov,2024-10-07,1230,NA,0,DEM,Harris,49,153,603
+YouGov,2024-10-07,1230,NA,0,REP,Trump,45,153,554
+Marist,2024-10-07,1257,Florida,0,DEM,Harris,47,153,591
+Marist,2024-10-07,1257,Florida,0,REP,Trump,51,153,641
+Marist,2024-10-07,1410,Florida,0,DEM,Harris,47,153,663
+Marist,2024-10-07,1410,Florida,0,REP,Trump,51,153,719
+Marist,2024-10-07,1365,Texas,0,DEM,Harris,46,153,628
+Marist,2024-10-07,1365,Texas,0,REP,Trump,52,153,710
+Marist,2024-10-07,1186,Texas,0,DEM,Harris,46,153,546
+Marist,2024-10-07,1186,Texas,0,REP,Trump,53,153,629
+Marist,2024-10-07,1511,Ohio,0,DEM,Harris,46,153,695
+Marist,2024-10-07,1511,Ohio,0,REP,Trump,52,153,786
+Marist,2024-10-07,1327,Ohio,0,DEM,Harris,46,153,610
+Marist,2024-10-07,1327,Ohio,0,REP,Trump,52,153,690
+The Washington Post,2024-10-07,1002,Ohio,0,DEM,Harris,45,153,451
+The Washington Post,2024-10-07,1002,Ohio,0,REP,Trump,51,153,511
+The Washington Post,2024-10-07,1002,Ohio,0,DEM,Harris,44,153,441
+The Washington Post,2024-10-07,1002,Ohio,0,REP,Trump,51,153,511
+Siena/NYT,2024-10-06,3385,NA,0,DEM,Harris,49,152,1659
+Siena/NYT,2024-10-06,3385,NA,0,REP,Trump,46,152,1557
+Siena/NYT,2024-10-06,3385,NA,0,DEM,Harris,47,152,1591
+Siena/NYT,2024-10-06,3385,NA,0,REP,Trump,44,152,1489
+Siena/NYT,2024-10-06,622,Florida,0,DEM,Harris,41,152,255
+Siena/NYT,2024-10-06,622,Florida,0,REP,Trump,55,152,342
+Siena/NYT,2024-10-06,622,Florida,0,DEM,Harris,40,152,249
+Siena/NYT,2024-10-06,622,Florida,0,REP,Trump,53,152,330
+Siena/NYT,2024-10-06,622,Florida,0,DEM,Harris,41,152,255
+Siena/NYT,2024-10-06,622,Florida,0,REP,Trump,54,152,336
+Siena/NYT,2024-10-06,622,Florida,0,DEM,Harris,40,152,249
+Siena/NYT,2024-10-06,622,Florida,0,REP,Trump,53,152,330
+Suffolk,2024-10-05,500,Massachusetts,0,DEM,Harris,61.2,151,306
+Suffolk,2024-10-05,500,Massachusetts,0,REP,Trump,32.2,151,161
+YouGov,2024-10-04,1150,NA,0,DEM,Harris,46,150,529
+YouGov,2024-10-04,1150,NA,0,REP,Trump,45,150,518
+YouGov,2024-10-04,1032,NA,0,DEM,Harris,48,150,495
+YouGov,2024-10-04,1032,NA,0,REP,Trump,46,150,475
+YouGov,2024-10-04,1151,NA,0,DEM,Harris,48,150,552
+YouGov,2024-10-04,1151,NA,0,REP,Trump,46,150,529
+YouGov,2024-10-04,1033,NA,0,DEM,Harris,49,150,506
+YouGov,2024-10-04,1033,NA,0,REP,Trump,46,150,475
+Siena/NYT,2024-10-04,617,Texas,0,DEM,Harris,44,150,271
+Siena/NYT,2024-10-04,617,Texas,0,REP,Trump,50,150,308
+Siena/NYT,2024-10-04,617,Texas,0,DEM,Harris,42,150,259
+Siena/NYT,2024-10-04,617,Texas,0,REP,Trump,49,150,302
+Siena/NYT,2024-10-04,617,Texas,0,DEM,Harris,44,150,271
+Siena/NYT,2024-10-04,617,Texas,0,REP,Trump,50,150,308
+Siena/NYT,2024-10-04,617,Texas,0,DEM,Harris,41,150,253
+Siena/NYT,2024-10-04,617,Texas,0,REP,Trump,48,150,296
+YouGov/Center for Working Class Politics,2024-10-02,1000,Pennsylvania,0,DEM,Harris,46.8,148,468
+YouGov/Center for Working Class Politics,2024-10-02,1000,Pennsylvania,0,REP,Trump,44.7,148,447
+YouGov,2024-10-01,1463,NA,0,DEM,Harris,48,147,702
+YouGov,2024-10-01,1463,NA,0,REP,Trump,45,147,658
+YouGov,2024-10-01,1261,NA,0,DEM,Harris,49,147,618
+YouGov,2024-10-01,1261,NA,0,REP,Trump,46,147,580
+Emerson,2024-10-01,1000,NA,0,DEM,Harris,50.2,147,502
+Emerson,2024-10-01,1000,NA,0,REP,Trump,48.6,147,486
+Marist,2024-10-01,1294,NA,0,DEM,Harris,50,147,647
+Marist,2024-10-01,1294,NA,0,REP,Trump,48,147,621
+Marist,2024-10-01,1514,NA,0,DEM,Harris,50,147,757
+Marist,2024-10-01,1514,NA,0,REP,Trump,47,147,712
+The Washington Post,2024-09-29,1001,North Carolina,0,DEM,Harris,48,145,480
+The Washington Post,2024-09-29,1001,North Carolina,0,REP,Trump,50,145,500
+The Washington Post,2024-09-29,1001,North Carolina,0,DEM,Harris,47,145,470
+The Washington Post,2024-09-29,1001,North Carolina,0,REP,Trump,50,145,500
+Emerson,2024-09-28,920,Arizona,0,DEM,Harris,47.6,144,438
+Emerson,2024-09-28,920,Arizona,0,REP,Trump,51.7,144,476
+Emerson,2024-09-28,850,North Carolina,0,DEM,Harris,49.1,144,417
+Emerson,2024-09-28,850,North Carolina,0,REP,Trump,49.9,144,424
+Emerson,2024-09-28,1000,Pennsylvania,0,DEM,Harris,49.3,144,493
+Emerson,2024-09-28,1000,Pennsylvania,0,REP,Trump,48.8,144,488
+McCourtney Institute/YouGov,2024-09-27,848,NA,0,DEM,Harris,48,143,407
+McCourtney Institute/YouGov,2024-09-27,848,NA,0,REP,Trump,45,143,382
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,DEM,Harris,51,142,347
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,REP,Trump,42,142,286
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,DEM,Harris,49,142,333
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,REP,Trump,41,142,279
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,DEM,Harris,52,142,354
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,REP,Trump,43,142,292
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,DEM,Harris,51,142,347
+Siena/NYT,2024-09-26,680,Nebraska CD-2,0,REP,Trump,42,142,286
+Siena/NYT,2024-09-26,688,Michigan,0,DEM,Harris,45,142,310
+Siena/NYT,2024-09-26,688,Michigan,0,REP,Trump,47,142,323
+Siena/NYT,2024-09-26,688,Michigan,0,DEM,Harris,43,142,296
+Siena/NYT,2024-09-26,688,Michigan,0,REP,Trump,46,142,316
+Siena/NYT,2024-09-26,688,Michigan,0,DEM,Harris,48,142,330
+Siena/NYT,2024-09-26,688,Michigan,0,REP,Trump,47,142,323
+Siena/NYT,2024-09-26,688,Michigan,0,DEM,Harris,46,142,316
+Siena/NYT,2024-09-26,688,Michigan,0,REP,Trump,46,142,316
+Siena/NYT,2024-09-26,687,Ohio,0,DEM,Harris,45,142,309
+Siena/NYT,2024-09-26,687,Ohio,0,REP,Trump,49,142,337
+Siena/NYT,2024-09-26,687,Ohio,0,DEM,Harris,44,142,302
+Siena/NYT,2024-09-26,687,Ohio,0,REP,Trump,47,142,323
+Siena/NYT,2024-09-26,687,Ohio,0,DEM,Harris,44,142,302
+Siena/NYT,2024-09-26,687,Ohio,0,REP,Trump,50,142,344
+Siena/NYT,2024-09-26,687,Ohio,0,DEM,Harris,43,142,295
+Siena/NYT,2024-09-26,687,Ohio,0,REP,Trump,49,142,337
+Siena/NYT,2024-09-26,680,Wisconsin,0,DEM,Harris,49,142,333
+Siena/NYT,2024-09-26,680,Wisconsin,0,REP,Trump,47,142,320
+Siena/NYT,2024-09-26,680,Wisconsin,0,DEM,Harris,48,142,326
+Siena/NYT,2024-09-26,680,Wisconsin,0,REP,Trump,45,142,306
+Siena/NYT,2024-09-26,680,Wisconsin,0,DEM,Harris,49,142,333
+Siena/NYT,2024-09-26,680,Wisconsin,0,REP,Trump,47,142,320
+Siena/NYT,2024-09-26,680,Wisconsin,0,DEM,Harris,48,142,326
+Siena/NYT,2024-09-26,680,Wisconsin,0,REP,Trump,46,142,313
+Marquette Law School,2024-09-26,882,Wisconsin,0,DEM,Harris,52,142,459
+Marquette Law School,2024-09-26,882,Wisconsin,0,REP,Trump,48,142,423
+Marquette Law School,2024-09-26,798,Wisconsin,0,DEM,Harris,52,142,415
+Marquette Law School,2024-09-26,798,Wisconsin,0,REP,Trump,48,142,383
+Marquette Law School,2024-09-26,882,Wisconsin,1,DEM,Harris,48,142,423
+Marquette Law School,2024-09-26,882,Wisconsin,1,REP,Trump,44,142,388
+Marquette Law School,2024-09-26,798,Wisconsin,1,DEM,Harris,49,142,391
+Marquette Law School,2024-09-26,798,Wisconsin,1,REP,Trump,44,142,351
+Emerson,2024-09-25,1000,New York,0,DEM,Harris,55.5,141,555
+Emerson,2024-09-25,1000,New York,0,REP,Trump,41.6,141,416
+Emerson,2024-09-24,950,Texas,0,DEM,Harris,46.7,140,444
+Emerson,2024-09-24,950,Texas,0,REP,Trump,52.3,140,497
+Emerson,2024-09-24,860,Virginia,0,DEM,Harris,52.7,140,453
+Emerson,2024-09-24,860,Virginia,0,REP,Trump,46.2,140,397
+YouGov,2024-09-24,1424,NA,0,DEM,Harris,47,140,669
+YouGov,2024-09-24,1424,NA,0,REP,Trump,44,140,627
+YouGov,2024-09-24,1220,NA,0,DEM,Harris,49,140,598
+YouGov,2024-09-24,1220,NA,0,REP,Trump,46,140,561
+YouGov,2024-09-24,1441,Georgia,0,DEM,Harris,49,140,706
+YouGov,2024-09-24,1441,Georgia,0,REP,Trump,51,140,735
+Marist,2024-09-24,1416,Arizona,0,DEM,Harris,48,140,680
+Marist,2024-09-24,1416,Arizona,0,REP,Trump,50,140,708
+Marist,2024-09-24,1264,Arizona,0,DEM,Harris,49,140,619
+Marist,2024-09-24,1264,Arizona,0,REP,Trump,50,140,632
+Marist,2024-09-24,1507,North Carolina,0,DEM,Harris,49,140,738
+Marist,2024-09-24,1507,North Carolina,0,REP,Trump,48,140,723
+Marist,2024-09-24,1348,North Carolina,0,DEM,Harris,49,140,661
+Marist,2024-09-24,1348,North Carolina,0,REP,Trump,49,140,661
+Marist,2024-09-24,1420,Georgia,0,DEM,Harris,49,140,696
+Marist,2024-09-24,1420,Georgia,0,REP,Trump,48,140,682
+Marist,2024-09-24,1220,Georgia,0,DEM,Harris,49,140,598
+Marist,2024-09-24,1220,Georgia,0,REP,Trump,50,140,610
+Suffolk,2024-09-24,500,Arizona,0,DEM,Harris,42.4,140,212
+Suffolk,2024-09-24,500,Arizona,0,REP,Trump,48.4,140,242
+Monmouth,2024-09-23,654,Pennsylvania,0,DEM,Harris,47,139,307
+Monmouth,2024-09-23,654,Pennsylvania,0,REP,Trump,45,139,294
+Siena/NYT,2024-09-21,713,Arizona,0,DEM,Harris,45,137,321
+Siena/NYT,2024-09-21,713,Arizona,0,REP,Trump,49,137,349
+Siena/NYT,2024-09-21,713,Arizona,0,DEM,Harris,45,137,321
+Siena/NYT,2024-09-21,713,Arizona,0,REP,Trump,50,137,356
+Siena/NYT,2024-09-21,713,Arizona,0,DEM,Harris,42,137,299
+Siena/NYT,2024-09-21,713,Arizona,0,REP,Trump,47,137,335
+Siena/NYT,2024-09-21,713,Arizona,0,DEM,Harris,43,137,307
+Siena/NYT,2024-09-21,713,Arizona,0,REP,Trump,48,137,342
+Siena/NYT,2024-09-21,682,Georgia,0,DEM,Harris,44,137,300
+Siena/NYT,2024-09-21,682,Georgia,0,REP,Trump,48,137,327
+Siena/NYT,2024-09-21,682,Georgia,0,DEM,Harris,45,137,307
+Siena/NYT,2024-09-21,682,Georgia,0,REP,Trump,49,137,334
+Siena/NYT,2024-09-21,682,Georgia,0,DEM,Harris,43,137,293
+Siena/NYT,2024-09-21,682,Georgia,0,REP,Trump,46,137,314
+Siena/NYT,2024-09-21,682,Georgia,0,DEM,Harris,44,137,300
+Siena/NYT,2024-09-21,682,Georgia,0,REP,Trump,47,137,321
+Siena/NYT,2024-09-21,682,North Carolina,0,DEM,Harris,47,137,321
+Siena/NYT,2024-09-21,682,North Carolina,0,REP,Trump,48,137,327
+Siena/NYT,2024-09-21,682,North Carolina,0,DEM,Harris,47,137,321
+Siena/NYT,2024-09-21,682,North Carolina,0,REP,Trump,49,137,334
+Siena/NYT,2024-09-21,682,North Carolina,0,DEM,Harris,46,137,314
+Siena/NYT,2024-09-21,682,North Carolina,0,REP,Trump,46,137,314
+Siena/NYT,2024-09-21,682,North Carolina,0,DEM,Harris,45,137,307
+Siena/NYT,2024-09-21,682,North Carolina,0,REP,Trump,47,137,321
+YouGov,2024-09-20,3129,NA,0,DEM,Harris,52,136,1627
+YouGov,2024-09-20,3129,NA,0,REP,Trump,48,136,1502
+University of Massachusetts Lowell/YouGov,2024-09-19,650,Michigan,1,DEM,Harris,48,135,312
+University of Massachusetts Lowell/YouGov,2024-09-19,650,Michigan,1,REP,Trump,43,135,280
+University of Massachusetts Lowell/YouGov,2024-09-19,800,Pennsylvania,0,DEM,Harris,48,135,384
+University of Massachusetts Lowell/YouGov,2024-09-19,800,Pennsylvania,0,REP,Trump,46,135,368
+Suffolk,2024-09-18,500,Michigan,1,DEM,Harris,47.6,134,238
+Suffolk,2024-09-18,500,Michigan,1,REP,Trump,45.4,134,227
+Emerson,2024-09-18,868,Arizona,0,DEM,Harris,48.7,134,423
+Emerson,2024-09-18,868,Arizona,0,REP,Trump,49.8,134,432
+Emerson,2024-09-18,975,Georgia,0,DEM,Harris,48.2,134,470
+Emerson,2024-09-18,975,Georgia,0,REP,Trump,50.3,134,490
+Emerson,2024-09-18,875,Michigan,0,DEM,Harris,50,134,438
+Emerson,2024-09-18,875,Michigan,0,REP,Trump,49.1,134,430
+Emerson,2024-09-18,895,Nevada,0,DEM,Harris,48.8,134,437
+Emerson,2024-09-18,895,Nevada,0,REP,Trump,49,134,439
+Emerson,2024-09-18,880,Pennsylvania,0,DEM,Harris,49.6,134,436
+Emerson,2024-09-18,880,Pennsylvania,0,REP,Trump,49.3,134,434
+Emerson,2024-09-18,1000,North Carolina,0,DEM,Harris,49.7,134,497
+Emerson,2024-09-18,1000,North Carolina,0,REP,Trump,49.3,134,493
+Emerson,2024-09-18,1000,Wisconsin,0,DEM,Harris,48.7,134,487
+Emerson,2024-09-18,1000,Wisconsin,0,REP,Trump,50.3,134,503
+YouGov,2024-09-17,1445,NA,0,DEM,Harris,49,133,708
+YouGov,2024-09-17,1445,NA,0,REP,Trump,45,133,650
+Marist,2024-09-17,1663,Pennsylvania,0,DEM,Harris,49,133,815
+Marist,2024-09-17,1663,Pennsylvania,0,REP,Trump,48,133,798
+Marist,2024-09-17,1476,Pennsylvania,0,DEM,Harris,49,133,723
+Marist,2024-09-17,1476,Pennsylvania,0,REP,Trump,49,133,723
+Marist,2024-09-17,1312,Wisconsin,0,DEM,Harris,50,133,656
+Marist,2024-09-17,1312,Wisconsin,0,REP,Trump,47,133,617
+Marist,2024-09-17,1194,Wisconsin,0,DEM,Harris,50,133,597
+Marist,2024-09-17,1194,Wisconsin,0,REP,Trump,49,133,585
+Marist,2024-09-17,1282,Michigan,0,DEM,Harris,50,133,641
+Marist,2024-09-17,1282,Michigan,0,REP,Trump,47,133,603
+Marist,2024-09-17,1138,Michigan,0,DEM,Harris,52,133,592
+Marist,2024-09-17,1138,Michigan,0,REP,Trump,47,133,535
+The Washington Post,2024-09-16,1003,Pennsylvania,0,DEM,Harris,48,132,481
+The Washington Post,2024-09-16,1003,Pennsylvania,0,REP,Trump,47,132,471
+The Washington Post,2024-09-16,1003,Pennsylvania,0,DEM,Harris,48,132,481
+The Washington Post,2024-09-16,1003,Pennsylvania,0,REP,Trump,48,132,481
+Siena/NYT,2024-09-16,2437,NA,0,DEM,Harris,47,132,1145
+Siena/NYT,2024-09-16,2437,NA,0,REP,Trump,47,132,1145
+Siena/NYT,2024-09-16,2437,NA,0,DEM,Harris,46,132,1121
+Siena/NYT,2024-09-16,2437,NA,0,REP,Trump,47,132,1145
+Siena/NYT,2024-09-16,2437,NA,0,DEM,Harris,45,132,1097
+Siena/NYT,2024-09-16,2437,NA,0,REP,Trump,46,132,1121
+Siena/NYT,2024-09-16,2437,NA,0,DEM,Harris,46,132,1121
+Siena/NYT,2024-09-16,2437,NA,0,REP,Trump,46,132,1121
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,DEM,Harris,50,132,541
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,REP,Trump,46,132,498
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,DEM,Harris,50,132,541
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,REP,Trump,46,132,498
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,DEM,Harris,48,132,519
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,REP,Trump,45,132,487
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,DEM,Harris,49,132,530
+Siena/NYT,2024-09-16,1082,Pennsylvania,0,REP,Trump,45,132,487
+Monmouth,2024-09-15,803,NA,0,DEM,Harris,48,131,385
+Monmouth,2024-09-15,803,NA,0,REP,Trump,44,131,353
+Suffolk,2024-09-14,500,Pennsylvania,0,DEM,Harris,48.6,130,243
+Suffolk,2024-09-14,500,Pennsylvania,0,REP,Trump,45.6,130,228
+Emerson,2024-09-13,890,Maryland,0,DEM,Harris,65.3,129,581
+Emerson,2024-09-13,890,Maryland,0,REP,Trump,33.3,129,296
+Emerson,2024-09-13,850,Missouri,0,DEM,Harris,43.4,129,369
+Emerson,2024-09-13,850,Missouri,0,REP,Trump,55.2,129,469
+Emerson,2024-09-13,1000,Indiana,0,DEM,Harris,40.7,129,407
+Emerson,2024-09-13,1000,Indiana,0,REP,Trump,57.9,129,579
+YouGov,2024-09-13,1177,NA,0,DEM,Harris,50,129,588
+YouGov,2024-09-13,1177,NA,0,REP,Trump,45,129,530
+YouGov,2024-09-13,1090,NA,0,DEM,Harris,50,129,545
+YouGov,2024-09-13,1090,NA,0,REP,Trump,46,129,501
+YouGov,2024-09-13,1175,NA,0,DEM,Harris,48,129,564
+YouGov,2024-09-13,1175,NA,0,REP,Trump,44,129,517
+YouGov,2024-09-13,1090,NA,0,DEM,Harris,49,129,534
+YouGov,2024-09-13,1090,NA,0,REP,Trump,45,129,490
+YouGov,2024-09-10,1464,NA,0,DEM,Harris,45,126,659
+YouGov,2024-09-10,1464,NA,0,REP,Trump,45,126,659
+Data Orbital,2024-09-09,550,Arizona,0,DEM,Harris,46,125,253
+Data Orbital,2024-09-09,550,Arizona,0,REP,Trump,46.2,125,254
+YouGov,2024-09-06,1077,Michigan,0,DEM,Harris,50,122,538
+YouGov,2024-09-06,1077,Michigan,0,REP,Trump,49,122,528
+YouGov,2024-09-06,1078,Pennsylvania,0,DEM,Harris,50,122,539
+YouGov,2024-09-06,1078,Pennsylvania,0,REP,Trump,50,122,539
+YouGov,2024-09-06,946,Wisconsin,0,DEM,Harris,51,122,482
+YouGov,2024-09-06,946,Wisconsin,0,REP,Trump,49,122,464
+Siena/NYT,2024-09-06,1695,NA,0,DEM,Harris,47,122,797
+Siena/NYT,2024-09-06,1695,NA,0,REP,Trump,48,122,814
+Siena/NYT,2024-09-06,1695,NA,0,DEM,Harris,45,122,763
+Siena/NYT,2024-09-06,1695,NA,0,REP,Trump,47,122,797
+Siena/NYT,2024-09-06,1695,NA,0,DEM,Harris,46,122,780
+Siena/NYT,2024-09-06,1695,NA,0,REP,Trump,48,122,814
+Siena/NYT,2024-09-06,1695,NA,0,DEM,Harris,44,122,746
+Siena/NYT,2024-09-06,1695,NA,0,REP,Trump,46,122,780
+Emerson,2024-09-05,815,California,0,DEM,Harris,60.8,121,496
+Emerson,2024-09-05,815,California,0,REP,Trump,38,121,310
+Emerson,2024-09-05,815,Florida,0,DEM,Harris,47.6,121,388
+Emerson,2024-09-05,815,Florida,0,REP,Trump,51.1,121,416
+Emerson,2024-09-05,845,Texas,0,DEM,Harris,48,121,406
+Emerson,2024-09-05,845,Texas,0,REP,Trump,50.9,121,430
+Emerson,2024-09-05,945,Ohio,0,DEM,Harris,44.7,121,422
+Emerson,2024-09-05,945,Ohio,0,REP,Trump,54.3,121,513
+Marist,2024-09-05,1413,NA,0,DEM,Harris,49,121,692
+Marist,2024-09-05,1413,NA,0,REP,Trump,48,121,678
+Marquette Law School,2024-09-05,822,Wisconsin,0,DEM,Harris,52,121,427
+Marquette Law School,2024-09-05,822,Wisconsin,0,REP,Trump,48,121,395
+Marquette Law School,2024-09-05,738,Wisconsin,0,DEM,Harris,52,121,384
+Marquette Law School,2024-09-05,738,Wisconsin,0,REP,Trump,48,121,354
+Marquette Law School,2024-09-05,822,Wisconsin,1,DEM,Harris,47,121,386
+Marquette Law School,2024-09-05,822,Wisconsin,1,REP,Trump,43,121,353
+Marquette Law School,2024-09-05,738,Wisconsin,1,DEM,Harris,48,121,354
+Marquette Law School,2024-09-05,738,Wisconsin,1,REP,Trump,43,121,317
+Emerson,2024-09-04,1000,NA,0,DEM,Harris,51.3,120,513
+Emerson,2024-09-04,1000,NA,0,REP,Trump,47.6,120,476
+YouGov,2024-09-03,1389,NA,0,DEM,Harris,47,119,653
+YouGov,2024-09-03,1389,NA,0,REP,Trump,45,119,625
+YouGov,2024-08-31,1200,Texas,0,DEM,Harris,44,116,528
+YouGov,2024-08-31,1200,Texas,0,REP,Trump,49,116,588
+YouGov,2024-08-31,1200,Texas,0,DEM,Harris,44,116,528
+YouGov,2024-08-31,1200,Texas,0,REP,Trump,49,116,588
+Emerson,2024-08-28,720,Arizona,0,DEM,Harris,47.5,113,342
+Emerson,2024-08-28,720,Arizona,0,REP,Trump,51.2,113,369
+Emerson,2024-08-28,800,Michigan,0,DEM,Harris,51.2,113,410
+Emerson,2024-08-28,800,Michigan,0,REP,Trump,47.6,113,381
+Emerson,2024-08-28,1168,Nevada,0,DEM,Harris,49.4,113,577
+Emerson,2024-08-28,1168,Nevada,0,REP,Trump,48.8,113,570
+Emerson,2024-08-28,950,Pennsylvania,0,DEM,Harris,49.4,113,469
+Emerson,2024-08-28,950,Pennsylvania,0,REP,Trump,49.4,113,469
+Emerson,2024-08-28,850,Wisconsin,0,DEM,Harris,49.1,113,417
+Emerson,2024-08-28,850,Wisconsin,0,REP,Trump,49.8,113,423
+Emerson,2024-08-28,775,North Carolina,0,DEM,Harris,49,113,380
+Emerson,2024-08-28,775,North Carolina,0,REP,Trump,49.9,113,387
+Emerson,2024-08-28,800,Georgia,0,DEM,Harris,50.1,113,401
+Emerson,2024-08-28,800,Georgia,0,REP,Trump,49,113,392
+Suffolk,2024-08-28,1000,NA,0,DEM,Harris,47.6,113,476
+Suffolk,2024-08-28,1000,NA,0,REP,Trump,43.3,113,433
+YouGov,2024-08-27,1368,NA,0,DEM,Harris,47,112,643
+YouGov,2024-08-27,1368,NA,0,REP,Trump,45,112,616
+YouGov,2024-08-26,1194,NA,0,DEM,Harris,46,111,549
+YouGov,2024-08-26,1194,NA,0,REP,Trump,45,111,537
+YouGov,2024-08-26,1197,NA,0,DEM,Harris,47,111,563
+YouGov,2024-08-26,1197,NA,0,REP,Trump,46,111,551
+YouGov,2024-08-26,1788,NA,1,DEM,Harris,39,111,697
+YouGov,2024-08-26,1788,NA,1,REP,Trump,36,111,644
+YouGov,2024-08-26,1200,NA,1,DEM,Harris,44,111,528
+YouGov,2024-08-26,1200,NA,1,REP,Trump,42,111,504
+YouGov,2024-08-23,500,Pennsylvania,0,DEM,Harris,43,108,215
+YouGov,2024-08-23,500,Pennsylvania,0,REP,Trump,42.5,108,212
+YouGov,2024-08-23,NA,Pennsylvania,0,DEM,Harris,47,108,NA
+YouGov,2024-08-23,NA,Pennsylvania,0,REP,Trump,47,108,NA
+YouGov,2024-08-23,500,Pennsylvania,1,DEM,Harris,43,108,215
+YouGov,2024-08-23,500,Pennsylvania,1,REP,Trump,41,108,205
+YouGov,2024-08-23,NA,Pennsylvania,1,DEM,Harris,48,108,NA
+YouGov,2024-08-23,NA,Pennsylvania,1,REP,Trump,46,108,NA
+YouGov,2024-08-23,500,Wisconsin,0,DEM,Harris,48,108,240
+YouGov,2024-08-23,500,Wisconsin,0,REP,Trump,42,108,210
+YouGov,2024-08-23,NA,Wisconsin,0,DEM,Harris,51,108,NA
+YouGov,2024-08-23,NA,Wisconsin,0,REP,Trump,46,108,NA
+YouGov,2024-08-23,500,Wisconsin,1,DEM,Harris,45,108,225
+YouGov,2024-08-23,500,Wisconsin,1,REP,Trump,40,108,200
+YouGov,2024-08-23,NA,Wisconsin,1,DEM,Harris,49,108,NA
+YouGov,2024-08-23,NA,Wisconsin,1,REP,Trump,45,108,NA
+YouGov,2024-08-23,500,Michigan,0,DEM,Harris,44,108,220
+YouGov,2024-08-23,500,Michigan,0,REP,Trump,43.5,108,218
+YouGov,2024-08-23,NA,Michigan,0,DEM,Harris,47,108,NA
+YouGov,2024-08-23,NA,Michigan,0,REP,Trump,48,108,NA
+YouGov,2024-08-23,500,Michigan,1,DEM,Harris,44,108,220
+YouGov,2024-08-23,500,Michigan,1,REP,Trump,41.5,108,208
+YouGov,2024-08-23,NA,Michigan,1,DEM,Harris,47,108,NA
+YouGov,2024-08-23,NA,Michigan,1,REP,Trump,46,108,NA
+Emerson,2024-08-22,965,New Mexico,0,DEM,Harris,53.6,107,517
+Emerson,2024-08-22,965,New Mexico,0,REP,Trump,46.4,107,448
+Emerson,2024-08-22,965,New Mexico,1,DEM,Harris,51,107,492
+Emerson,2024-08-22,965,New Mexico,1,REP,Trump,40.2,107,388
+YouGov,2024-08-22,1835,NA,0,DEM,Harris,44,107,807
+YouGov,2024-08-22,1835,NA,0,REP,Trump,40,107,734
+YouGov,2024-08-20,1371,NA,1,DEM,Harris,46,105,631
+YouGov,2024-08-20,1371,NA,1,REP,Trump,43,105,590
+YouGov,2024-08-16,3253,NA,0,DEM,Harris,51,101,1659
+YouGov,2024-08-16,3253,NA,0,REP,Trump,48,101,1561
+YouGov,2024-08-16,3253,NA,1,DEM,Harris,49,101,1594
+YouGov,2024-08-16,3253,NA,1,REP,Trump,47,101,1529
+YouGov,2024-08-16,900,Missouri,0,DEM,Harris,41,101,369
+YouGov,2024-08-16,900,Missouri,0,REP,Trump,54,101,486
+Siena/NYT,2024-08-15,677,Nevada,0,DEM,Harris,46,100,311
+Siena/NYT,2024-08-15,677,Nevada,0,REP,Trump,48,100,325
+Siena/NYT,2024-08-15,677,Nevada,0,DEM,Harris,47,100,318
+Siena/NYT,2024-08-15,677,Nevada,0,REP,Trump,48,100,325
+Siena/NYT,2024-08-15,677,Nevada,1,DEM,Harris,42,100,284
+Siena/NYT,2024-08-15,677,Nevada,1,REP,Trump,45,100,305
+Siena/NYT,2024-08-15,677,Nevada,1,DEM,Harris,44,100,298
+Siena/NYT,2024-08-15,677,Nevada,1,REP,Trump,46,100,311
+Siena/NYT,2024-08-15,677,Arizona,0,DEM,Harris,49,100,332
+Siena/NYT,2024-08-15,677,Arizona,0,REP,Trump,45,100,305
+Siena/NYT,2024-08-15,677,Arizona,0,DEM,Harris,50,100,338
+Siena/NYT,2024-08-15,677,Arizona,0,REP,Trump,45,100,305
+Siena/NYT,2024-08-15,677,Arizona,1,DEM,Harris,45,100,305
+Siena/NYT,2024-08-15,677,Arizona,1,REP,Trump,42,100,284
+Siena/NYT,2024-08-15,677,Arizona,1,DEM,Harris,47,100,318
+Siena/NYT,2024-08-15,677,Arizona,1,REP,Trump,43,100,291
+Emerson,2024-08-14,1000,Pennsylvania,0,DEM,Harris,49.3,99,493
+Emerson,2024-08-14,1000,Pennsylvania,0,REP,Trump,50.7,99,507
+Emerson,2024-08-14,1000,Pennsylvania,1,DEM,Harris,46.8,99,468
+Emerson,2024-08-14,1000,Pennsylvania,1,REP,Trump,47.4,99,474
+Emerson,2024-08-14,1000,NA,0,DEM,Harris,52.3,99,523
+Emerson,2024-08-14,1000,NA,0,REP,Trump,47.7,99,477
+Emerson,2024-08-14,1000,NA,1,DEM,Harris,48.3,99,483
+Emerson,2024-08-14,1000,NA,1,REP,Trump,43.5,99,435
+Siena/NYT,2024-08-14,655,North Carolina,0,DEM,Harris,49,99,321
+Siena/NYT,2024-08-14,655,North Carolina,0,REP,Trump,46,99,301
+Siena/NYT,2024-08-14,655,North Carolina,0,DEM,Harris,49,99,321
+Siena/NYT,2024-08-14,655,North Carolina,0,REP,Trump,47,99,308
+Siena/NYT,2024-08-14,655,North Carolina,1,DEM,Harris,45,99,295
+Siena/NYT,2024-08-14,655,North Carolina,1,REP,Trump,42,99,275
+Siena/NYT,2024-08-14,655,North Carolina,1,DEM,Harris,46,99,301
+Siena/NYT,2024-08-14,655,North Carolina,1,REP,Trump,44,99,288
+Siena/NYT,2024-08-14,661,Georgia,0,DEM,Harris,44,99,291
+Siena/NYT,2024-08-14,661,Georgia,0,REP,Trump,51,99,337
+Siena/NYT,2024-08-14,661,Georgia,0,DEM,Harris,46,99,304
+Siena/NYT,2024-08-14,661,Georgia,0,REP,Trump,50,99,330
+Siena/NYT,2024-08-14,661,Georgia,1,DEM,Harris,41,99,271
+Siena/NYT,2024-08-14,661,Georgia,1,REP,Trump,47,99,311
+Siena/NYT,2024-08-14,661,Georgia,1,DEM,Harris,44,99,291
+Siena/NYT,2024-08-14,661,Georgia,1,REP,Trump,47,99,311
+YouGov,2024-08-13,1407,NA,1,DEM,Harris,46,98,647
+YouGov,2024-08-13,1407,NA,1,REP,Trump,44,98,619
+Suffolk,2024-08-11,500,Florida,1,DEM,Harris,41.8,96,209
+Suffolk,2024-08-11,500,Florida,1,REP,Trump,46.8,96,234
+Siena/NYT,2024-08-09,693,Pennsylvania,0,DEM,Harris,49,94,340
+Siena/NYT,2024-08-09,693,Pennsylvania,0,REP,Trump,46,94,319
+Siena/NYT,2024-08-09,693,Pennsylvania,0,DEM,Harris,50,94,346
+Siena/NYT,2024-08-09,693,Pennsylvania,0,REP,Trump,46,94,319
+Siena/NYT,2024-08-09,693,Pennsylvania,1,DEM,Harris,45,94,312
+Siena/NYT,2024-08-09,693,Pennsylvania,1,REP,Trump,43,94,298
+Siena/NYT,2024-08-09,693,Pennsylvania,1,DEM,Harris,46,94,319
+Siena/NYT,2024-08-09,693,Pennsylvania,1,REP,Trump,44,94,305
+YouGov Blue,2024-08-09,802,North Carolina,1,DEM,Harris,46,94,369
+YouGov Blue,2024-08-09,802,North Carolina,1,REP,Trump,46,94,369
+Siena/NYT,2024-08-08,619,Michigan,0,DEM,Harris,45,93,279
+Siena/NYT,2024-08-08,619,Michigan,0,REP,Trump,48,93,297
+Siena/NYT,2024-08-08,619,Michigan,0,DEM,Harris,50,93,310
+Siena/NYT,2024-08-08,619,Michigan,0,REP,Trump,46,93,285
+Siena/NYT,2024-08-08,619,Michigan,1,DEM,Harris,44,93,272
+Siena/NYT,2024-08-08,619,Michigan,1,REP,Trump,43,93,266
+Siena/NYT,2024-08-08,619,Michigan,1,DEM,Harris,48,93,297
+Siena/NYT,2024-08-08,619,Michigan,1,REP,Trump,43,93,266
+Siena/NYT,2024-08-08,661,Wisconsin,0,DEM,Harris,50,93,330
+Siena/NYT,2024-08-08,661,Wisconsin,0,REP,Trump,46,93,304
+Siena/NYT,2024-08-08,661,Wisconsin,0,DEM,Harris,50,93,330
+Siena/NYT,2024-08-08,661,Wisconsin,0,REP,Trump,46,93,304
+Siena/NYT,2024-08-08,661,Wisconsin,1,DEM,Harris,49,93,324
+Siena/NYT,2024-08-08,661,Wisconsin,1,REP,Trump,42,93,278
+Siena/NYT,2024-08-08,661,Wisconsin,1,DEM,Harris,49,93,324
+Siena/NYT,2024-08-08,661,Wisconsin,1,REP,Trump,43,93,284
+Emerson,2024-08-06,1000,Montana,0,DEM,Harris,42.5,91,425
+Emerson,2024-08-06,1000,Montana,0,REP,Trump,57.5,91,575
+Emerson,2024-08-06,1000,Montana,1,DEM,Harris,39,91,390
+Emerson,2024-08-06,1000,Montana,1,REP,Trump,53.5,91,535
+YouGov,2024-08-06,1413,NA,1,DEM,Harris,45,91,636
+YouGov,2024-08-06,1413,NA,1,REP,Trump,43,91,608
+Marist,2024-08-04,1513,NA,0,DEM,Harris,51,89,772
+Marist,2024-08-04,1513,NA,0,REP,Trump,48,89,726
+Marist,2024-08-04,1513,NA,1,DEM,Harris,48,89,726
+Marist,2024-08-04,1513,NA,1,REP,Trump,45,89,681
+YouGov,2024-08-02,3092,NA,0,DEM,Harris,50,87,1546
+YouGov,2024-08-02,3092,NA,0,REP,Trump,49,87,1515
+YouGov,2024-08-02,3092,NA,1,DEM,Harris,49,87,1515
+YouGov,2024-08-02,3092,NA,1,REP,Trump,47,87,1453
+Marquette Law School,2024-08-01,877,Wisconsin,0,DEM,Harris,49,86,430
+Marquette Law School,2024-08-01,877,Wisconsin,0,REP,Trump,50,86,438
+Marquette Law School,2024-08-01,801,Wisconsin,0,DEM,Harris,50,86,400
+Marquette Law School,2024-08-01,801,Wisconsin,0,REP,Trump,49,86,392
+Marquette Law School,2024-08-01,877,Wisconsin,1,DEM,Harris,45,86,395
+Marquette Law School,2024-08-01,877,Wisconsin,1,REP,Trump,43,86,377
+Marquette Law School,2024-08-01,801,Wisconsin,1,DEM,Harris,46,86,368
+Marquette Law School,2024-08-01,801,Wisconsin,1,REP,Trump,45,86,360
+Marquette Law School,2024-08-01,879,NA,0,DEM,Harris,52,86,457
+Marquette Law School,2024-08-01,879,NA,0,REP,Trump,48,86,422
+Marquette Law School,2024-08-01,683,NA,0,DEM,Harris,53,86,362
+Marquette Law School,2024-08-01,683,NA,0,REP,Trump,47,86,321
+Marquette Law School,2024-08-01,879,NA,1,DEM,Harris,47,86,413
+Marquette Law School,2024-08-01,879,NA,1,REP,Trump,41,86,360
+Marquette Law School,2024-08-01,683,NA,1,DEM,Harris,50,86,342
+Marquette Law School,2024-08-01,683,NA,1,REP,Trump,42,86,287
+YouGov,2024-07-30,1434,NA,1,DEM,Harris,46,84,660
+YouGov,2024-07-30,1434,NA,1,REP,Trump,44,84,631
+Emerson,2024-07-28,1000,New Hampshire,0,DEM,Harris,52.4,82,524
+Emerson,2024-07-28,1000,New Hampshire,0,REP,Trump,47.6,82,476
+Emerson,2024-07-28,1000,New Hampshire,1,DEM,Harris,47.7,82,477
+Emerson,2024-07-28,1000,New Hampshire,1,REP,Trump,41.4,82,414
+Siena/NYT,2024-07-24,1142,NA,0,DEM,Harris,46,78,525
+Siena/NYT,2024-07-24,1142,NA,0,REP,Trump,48,78,548
+Siena/NYT,2024-07-24,1142,NA,0,DEM,Harris,47,78,537
+Siena/NYT,2024-07-24,1142,NA,0,REP,Trump,48,78,548
+Siena/NYT,2024-07-24,1142,NA,1,DEM,Harris,42,78,480
+Siena/NYT,2024-07-24,1142,NA,1,REP,Trump,42,78,480
+Siena/NYT,2024-07-24,1142,NA,1,DEM,Harris,44,78,502
+Siena/NYT,2024-07-24,1142,NA,1,REP,Trump,43,78,491
+Emerson,2024-07-23,800,Arizona,0,DEM,Harris,47.4,77,379
+Emerson,2024-07-23,800,Arizona,0,REP,Trump,52.6,77,421
+Emerson,2024-07-23,800,Arizona,1,DEM,Harris,39.8,77,318
+Emerson,2024-07-23,800,Arizona,1,REP,Trump,47.5,77,380
+Emerson,2024-07-23,800,Georgia,0,DEM,Harris,48.9,77,391
+Emerson,2024-07-23,800,Georgia,0,REP,Trump,51.1,77,409
+Emerson,2024-07-23,800,Georgia,1,DEM,Harris,43.3,77,346
+Emerson,2024-07-23,800,Georgia,1,REP,Trump,45.9,77,367
+Emerson,2024-07-23,800,Michigan,0,DEM,Harris,49.1,77,393
+Emerson,2024-07-23,800,Michigan,0,REP,Trump,50.9,77,407
+Emerson,2024-07-23,800,Michigan,1,DEM,Harris,43.8,77,350
+Emerson,2024-07-23,800,Michigan,1,REP,Trump,44.1,77,353
+Emerson,2024-07-23,845,Wisconsin,0,DEM,Harris,50.6,77,428
+Emerson,2024-07-23,845,Wisconsin,0,REP,Trump,49.4,77,417
+Emerson,2024-07-23,845,Wisconsin,1,DEM,Harris,45.4,77,384
+Emerson,2024-07-23,845,Wisconsin,1,REP,Trump,44.9,77,379
+Emerson,2024-07-23,850,Pennsylvania,0,DEM,Harris,48.9,77,416
+Emerson,2024-07-23,850,Pennsylvania,0,REP,Trump,51.1,77,434
+Emerson,2024-07-23,850,Pennsylvania,1,DEM,Harris,44.3,77,377
+Emerson,2024-07-23,850,Pennsylvania,1,REP,Trump,46.1,77,392
+YouGov,2024-07-23,1155,NA,1,DEM,Harris,44,77,508
+YouGov,2024-07-23,1155,NA,1,REP,Trump,46,77,531
+YouGov,2024-07-23,1435,NA,1,DEM,Harris,41,77,588
+YouGov,2024-07-23,1435,NA,1,REP,Trump,44,77,631
+Marist,2024-07-22,1117,NA,0,DEM,Harris,45,76,503
+Marist,2024-07-22,1117,NA,0,REP,Trump,46,76,514
+Marist,2024-07-22,1117,NA,1,DEM,Harris,42,76,469
+Marist,2024-07-22,1117,NA,1,REP,Trump,42,76,469
+YouGov,2024-07-22,1178,NA,1,REP,Trump,43,76,507
+YouGov,2024-07-22,1115,NA,1,REP,Trump,45,76,502
+YouGov,2024-07-22,1178,NA,1,DEM,Harris,41,76,483
+YouGov,2024-07-22,1178,NA,1,REP,Trump,43,76,507
+YouGov,2024-07-22,1178,NA,0,DEM,Harris,46,76,542
+YouGov,2024-07-22,1178,NA,0,REP,Trump,46,76,542
+YouGov,2024-07-22,1178,NA,1,REP,Trump,46,76,542
+YouGov,2024-07-22,1178,NA,1,REP,Trump,46,76,542
+YouGov,2024-07-22,1178,NA,1,REP,Trump,46,76,542
+YouGov,2024-07-18,2241,NA,1,REP,Trump,52,72,1165
+YouGov,2024-07-18,2240,NA,0,DEM,Harris,48,72,1075
+YouGov,2024-07-18,2240,NA,0,REP,Trump,51,72,1142
+Suffolk,2024-07-18,500,Massachusetts,1,REP,Trump,29,72,145
+Emerson,2024-07-16,2000,NA,1,REP,Trump,46.2,70,924
+Emerson,2024-07-16,2000,NA,1,REP,Trump,43.8,70,876
+Emerson,2024-07-16,1000,Arizona,1,REP,Trump,46.9,70,469
+Emerson,2024-07-16,1000,Arizona,1,REP,Trump,45.6,70,456
+Emerson,2024-07-16,1000,Georgia,1,REP,Trump,47.3,70,473
+Emerson,2024-07-16,1000,Georgia,1,REP,Trump,43.7,70,437
+Emerson,2024-07-16,1000,Michigan,1,REP,Trump,45.1,70,451
+Emerson,2024-07-16,1000,Michigan,1,REP,Trump,42.6,70,426
+Emerson,2024-07-16,1000,Nevada,1,REP,Trump,45.6,70,456
+Emerson,2024-07-16,1000,Nevada,1,REP,Trump,42.9,70,429
+Emerson,2024-07-16,1000,North Carolina,1,REP,Trump,47.7,70,477
+Emerson,2024-07-16,1000,North Carolina,1,REP,Trump,47,70,470
+Emerson,2024-07-16,1000,Pennsylvania,1,REP,Trump,47.6,70,476
+Emerson,2024-07-16,1000,Pennsylvania,1,REP,Trump,45.9,70,459
+Emerson,2024-07-16,1000,Wisconsin,1,REP,Trump,47.6,70,476
+Emerson,2024-07-16,1000,Wisconsin,1,REP,Trump,45.5,70,455
+YouGov,2024-07-16,1404,NA,1,REP,Trump,43,70,604
+YouGov,2024-07-16,1404,NA,1,DEM,Harris,39,70,548
+YouGov,2024-07-16,1404,NA,1,REP,Trump,44,70,618
+Emerson,2024-07-15,1000,Virginia,1,REP,Trump,50.4,69,504
+Emerson,2024-07-15,1000,Virginia,1,REP,Trump,42.9,69,429
+Emerson,2024-07-15,1000,Virginia,0,DEM,Harris,44.5,69,445
+Emerson,2024-07-15,1000,Virginia,0,REP,Trump,46.7,69,467
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,44,66,291
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,45,66,297
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,36,66,238
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,38,66,251
+Siena/NYT,2024-07-12,661,Virginia,0,DEM,Harris,48,66,317
+Siena/NYT,2024-07-12,661,Virginia,0,REP,Trump,44,66,291
+Siena/NYT,2024-07-12,661,Virginia,0,DEM,Harris,49,66,324
+Siena/NYT,2024-07-12,661,Virginia,0,REP,Trump,44,66,291
+Siena/NYT,2024-07-12,661,Virginia,1,DEM,Harris,41,66,271
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,38,66,251
+Siena/NYT,2024-07-12,661,Virginia,1,DEM,Harris,43,66,284
+Siena/NYT,2024-07-12,661,Virginia,1,REP,Trump,39,66,258
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,48,65,419
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,48,65,419
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,41,65,358
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,42,65,366
+Siena/NYT,2024-07-11,872,Pennsylvania,0,DEM,Harris,46,65,401
+Siena/NYT,2024-07-11,872,Pennsylvania,0,REP,Trump,48,65,419
+Siena/NYT,2024-07-11,872,Pennsylvania,0,DEM,Harris,47,65,410
+Siena/NYT,2024-07-11,872,Pennsylvania,0,REP,Trump,48,65,419
+Siena/NYT,2024-07-11,872,Pennsylvania,1,DEM,Harris,40,65,349
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,42,65,366
+Siena/NYT,2024-07-11,872,Pennsylvania,1,DEM,Harris,42,65,366
+Siena/NYT,2024-07-11,872,Pennsylvania,1,REP,Trump,43,65,375
+Marist,2024-07-10,1174,NA,1,REP,Trump,48,64,564
+Marist,2024-07-10,1174,NA,1,REP,Trump,43,64,505
+Marist,2024-07-10,1174,NA,0,DEM,Harris,50,64,587
+Marist,2024-07-10,1174,NA,0,REP,Trump,49,64,575
+Marist,2024-07-10,1174,NA,1,REP,Trump,49,64,575
+Marist,2024-07-10,1174,NA,1,REP,Trump,48,64,564
+YouGov,2024-07-09,1443,NA,1,REP,Trump,43,63,620
+YouGov,2024-07-09,1443,NA,1,DEM,Harris,38,63,548
+YouGov,2024-07-09,1443,NA,1,REP,Trump,42,63,606
+Emerson,2024-07-08,1370,NA,1,REP,Trump,50.2,62,688
+Emerson,2024-07-08,1370,NA,1,REP,Trump,43.7,62,599
+Emerson,2024-07-08,1370,NA,0,DEM,Harris,42.8,62,586
+Emerson,2024-07-08,1370,NA,0,REP,Trump,49,62,671
+Emerson,2024-07-08,1370,NA,1,REP,Trump,48.3,62,662
+Emerson,2024-07-08,1370,NA,1,REP,Trump,47.8,62,655
+Emerson,2024-07-08,1370,NA,1,REP,Trump,48.9,62,670
+Emerson,2024-07-08,1370,NA,1,REP,Trump,48,62,658
+Emerson,2024-07-08,1370,NA,1,REP,Trump,48.3,62,662
+Emerson,2024-07-08,1370,NA,1,REP,Trump,46.9,62,643
+Emerson,2024-07-08,1370,NA,1,REP,Trump,48.6,62,666
+Emerson,2024-07-08,1370,NA,1,REP,Trump,46.3,62,634
+YouGov,2024-07-02,1392,NA,1,REP,Trump,42,56,585
+Emerson,2024-07-02,1000,Pennsylvania,1,REP,Trump,48,56,480
+Emerson,2024-07-02,1000,Georgia,1,REP,Trump,47,56,470
+Emerson,2024-07-02,1000,Michigan,1,REP,Trump,45,56,450
+Emerson,2024-07-02,1000,Arizona,1,REP,Trump,46,56,460
+Emerson,2024-07-02,1000,Wisconsin,1,REP,Trump,47,56,470
+Emerson,2024-07-02,1000,Nevada,1,REP,Trump,47,56,470
+YouGov,2024-07-02,2815,NA,1,REP,Trump,50,56,1408
+YouGov,2024-07-02,2815,NA,1,REP,Trump,44,56,1239
+Siena/NYT,2024-07-02,1532,NA,1,REP,Trump,49,56,751
+Siena/NYT,2024-07-02,1532,NA,1,REP,Trump,40,56,613
+Siena/NYT,2024-07-02,1532,NA,1,REP,Trump,49,56,751
+Siena/NYT,2024-07-02,1532,NA,1,REP,Trump,42,56,643
+YouGov,2024-07-01,1176,NA,1,REP,Trump,44,55,517
+YouGov,2024-07-01,1176,NA,1,REP,Trump,45,55,529
+YouGov,2024-07-01,1176,NA,0,DEM,Harris,45,55,529
+YouGov,2024-07-01,1176,NA,0,REP,Trump,47,55,553
+Suffolk,2024-06-30,1000,NA,1,REP,Trump,41.4,54,414
+YouGov,2024-06-25,1406,NA,1,REP,Trump,42,49,591
+Siena/NYT,2024-06-25,1226,NA,1,REP,Trump,48,49,588
+Siena/NYT,2024-06-25,1226,NA,1,REP,Trump,48,49,588
+Siena/NYT,2024-06-25,1226,NA,1,REP,Trump,39,49,478
+Siena/NYT,2024-06-25,1226,NA,1,REP,Trump,40,49,490
+YouGov,2024-06-24,2750,NA,1,REP,Trump,41.9,48,1152
+YouGov,2024-06-21,1878,NA,1,REP,Trump,50,45,939
+Marquette Law School,2024-06-20,871,Wisconsin,1,REP,Trump,50,44,436
+Marquette Law School,2024-06-20,784,Wisconsin,1,REP,Trump,49,44,384
+Marquette Law School,2024-06-20,871,Wisconsin,1,REP,Trump,43,44,375
+Marquette Law School,2024-06-20,784,Wisconsin,1,REP,Trump,44,44,345
+Emerson,2024-06-19,1000,Missouri,1,REP,Trump,56.7,43,567
+Emerson,2024-06-19,1000,Missouri,1,REP,Trump,50.4,43,504
+YouGov,2024-06-18,1396,NA,1,REP,Trump,42,42,586
+YouGov Blue,2024-06-18,2015,NA,1,REP,Trump,45,42,907
+Emerson,2024-06-18,1000,Arizona,1,REP,Trump,52,42,520
+Emerson,2024-06-18,1000,Arizona,1,REP,Trump,42.7,42,427
+Emerson,2024-06-18,1000,Nevada,1,REP,Trump,49.7,42,497
+Emerson,2024-06-18,1000,Nevada,1,REP,Trump,42.1,42,421
+Emerson,2024-06-18,1000,Michigan,1,REP,Trump,50.7,42,507
+Emerson,2024-06-18,1000,Michigan,1,REP,Trump,44,42,440
+Emerson,2024-06-18,1000,Minnesota,1,REP,Trump,49,42,490
+Emerson,2024-06-18,1000,Minnesota,1,REP,Trump,41.6,42,416
+Emerson,2024-06-18,1000,Pennsylvania,1,REP,Trump,51.1,42,511
+Emerson,2024-06-18,1000,Pennsylvania,1,REP,Trump,44.8,42,448
+Emerson,2024-06-18,1000,Wisconsin,1,REP,Trump,51.3,42,513
+Emerson,2024-06-18,1000,Wisconsin,1,REP,Trump,43.8,42,438
+Emerson,2024-06-18,1000,Georgia,1,REP,Trump,52.3,42,523
+Emerson,2024-06-18,1000,Georgia,1,REP,Trump,44.9,42,449
+YouGov,2024-06-14,1011,NA,1,REP,Trump,39,38,394
+Marist,2024-06-12,1184,NA,1,REP,Trump,49,36,580
+Marist,2024-06-12,1184,NA,1,REP,Trump,42,36,497
+YouGov,2024-06-11,1399,NA,1,REP,Trump,42,35,588
+YouGov,2024-06-09,1200,Texas,1,REP,Trump,43,33,516
+YouGov,2024-06-09,1200,Texas,1,REP,Trump,46,33,552
+YouGov,2024-06-07,1359,NA,1,REP,Trump,50,31,680
+YouGov,2024-06-06,1239,NA,1,REP,Trump,44,30,545
+YouGov,2024-06-06,1239,NA,1,REP,Trump,43,30,533
+Marist,2024-06-06,1137,Ohio,1,REP,Trump,48,30,546
+Marist,2024-06-06,1181,Pennsylvania,1,REP,Trump,47,30,555
+Emerson,2024-06-05,1000,NA,1,REP,Trump,49.8,29,498
+Emerson,2024-06-05,1000,NA,1,REP,Trump,44.4,29,444
+YouGov,2024-06-04,1566,NA,1,REP,Trump,42,28,658
+Emerson,2024-05-29,1000,New York,1,REP,Trump,37.6,22,376
+Emerson,2024-05-29,1000,New York,1,REP,Trump,44.8,22,448
+YouGov,2024-05-28,1547,NA,1,REP,Trump,41,21,634
+Emerson,2024-05-27,1000,NA,1,REP,Trump,41,20,410
+Emerson,2024-05-23,1100,NA,1,REP,Trump,50.1,16,551
+Emerson,2024-05-23,1100,NA,1,REP,Trump,43.8,16,482
+Marist,2024-05-23,1122,NA,1,REP,Trump,48,16,539
+Marist,2024-05-23,1122,NA,1,REP,Trump,44,16,494
+YouGov,2024-05-21,1560,NA,1,REP,Trump,41,14,640
+YouGov,2024-05-16,1181,Florida,1,REP,Trump,54,9,638
+YouGov,2024-05-16,1174,Florida,1,REP,Trump,49,9,575
+YouGov,2024-05-16,1193,Arizona,1,REP,Trump,52,9,620
+YouGov,2024-05-16,1192,Arizona,1,REP,Trump,44,9,524
+Marquette Law School,2024-05-15,902,NA,1,REP,Trump,50,8,451
+Marquette Law School,2024-05-15,684,NA,1,REP,Trump,51,8,349
+Marquette Law School,2024-05-15,902,NA,1,REP,Trump,40,8,361
+Marquette Law School,2024-05-15,684,NA,1,REP,Trump,44,8,301
+YouGov,2024-05-14,1586,NA,1,REP,Trump,42,7,666
+University of Massachusetts Lowell/YouGov,2024-05-14,600,New Hampshire,1,REP,Trump,36,7,216
+YouGov,2024-05-13,1201,NA,1,REP,Trump,45,6,540
+YouGov,2024-05-13,1201,NA,1,REP,Trump,44,6,528
+Siena/NYT,2024-05-09,626,Arizona,1,REP,Trump,42,2,263
+Siena/NYT,2024-05-09,626,Arizona,1,REP,Trump,49,2,307
+Siena/NYT,2024-05-09,626,Arizona,1,REP,Trump,44,2,275
+Siena/NYT,2024-05-09,626,Arizona,1,REP,Trump,49,2,307
+Siena/NYT,2024-05-09,604,Georgia,1,REP,Trump,39,2,236
+Siena/NYT,2024-05-09,604,Georgia,1,REP,Trump,49,2,296
+Siena/NYT,2024-05-09,604,Georgia,1,REP,Trump,42,2,254
+Siena/NYT,2024-05-09,604,Georgia,1,REP,Trump,50,2,302
+Siena/NYT,2024-05-09,616,Michigan,1,REP,Trump,38,2,234
+Siena/NYT,2024-05-09,616,Michigan,1,REP,Trump,49,2,302
+Siena/NYT,2024-05-09,616,Michigan,1,REP,Trump,39,2,240
+Siena/NYT,2024-05-09,616,Michigan,1,REP,Trump,46,2,283
+Siena/NYT,2024-05-09,614,Nevada,1,REP,Trump,41,2,252
+Siena/NYT,2024-05-09,614,Nevada,1,REP,Trump,50,2,307
+Siena/NYT,2024-05-09,614,Nevada,1,REP,Trump,44,2,270
+Siena/NYT,2024-05-09,614,Nevada,1,REP,Trump,51,2,313
+Siena/NYT,2024-05-09,1023,Pennsylvania,1,REP,Trump,40,2,409
+Siena/NYT,2024-05-09,1023,Pennsylvania,1,REP,Trump,47,2,481
+Siena/NYT,2024-05-09,1023,Pennsylvania,1,REP,Trump,41,2,419
+Siena/NYT,2024-05-09,1023,Pennsylvania,1,REP,Trump,48,2,491
+Siena/NYT,2024-05-09,614,Wisconsin,1,REP,Trump,38,2,233
+Siena/NYT,2024-05-09,614,Wisconsin,1,REP,Trump,45,2,276
+Siena/NYT,2024-05-09,614,Wisconsin,1,REP,Trump,40,2,246
+Siena/NYT,2024-05-09,614,Wisconsin,1,REP,Trump,47,2,289
+Emerson,2024-05-08,1115,Maryland,1,REP,Trump,34.5,1,385
+Emerson,2024-05-08,1115,Maryland,1,REP,Trump,32.5,1,362
+YouGov,2024-05-07,1598,NA,1,REP,Trump,43,0,687

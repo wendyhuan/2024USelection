@@ -10,9 +10,11 @@
 
 #### Workspace setup ####
 library(tidyverse)
+library(lubridate)
+library(arrow)
 
 #### Set Seeds for furture check
-set.seed(1007968086)
+set.seed(304)
 
 
 #### Simulate data ####
