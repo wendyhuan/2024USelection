@@ -1,19 +1,20 @@
 #### Preamble ####
-# Purpose: Tests the structure and validity of the simulated Australian 
+# Purpose: Tests the structure and validity of the simulated US
   #electoral divisions dataset.
-# Author: Rohan Alexander
-# Date: 26 September 2024
-# Contact: rohan.alexander@utoronto.ca
-# License: MIT
+# Author: Yanfei Huang
+# Date: 02 November 2024
+# Contact: yanfei.huang@mail.utoronto.ca
+# License: University of Toronto
 # Pre-requisites: 
   # - The `tidyverse` package must be installed and loaded
   # - 00-simulate_data.R must have been run
-# Any other information needed? Make sure you are in the `starter_folder` rproj
+# Any other information needed? No
 
 
 #### Workspace setup ####
 library(tidyverse)
 
+#### Read the simulated data
 analysis_data <- read_csv("data/00-simulated_data/simulated_data.csv")
 
 # Test if the data was successfully loaded
